@@ -18,6 +18,8 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+		
+		<!--기본-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
